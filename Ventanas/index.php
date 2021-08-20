@@ -10,6 +10,7 @@
     <?php
         echo "HOLAAAAA";
         echo "Chinga tu colaaaaa";
+        echo "Gracias";
     ?>
 </body>
 </html>
